@@ -517,14 +517,19 @@ body {
 }
 .first.footer.container {
 	margin-left: 0;
-	margin-right: 120px;
+	margin-right: 90px;
 	padding-left: 0;
 }
 .secondary.footer.container {
 	margin-left: 0;
-	margin-right: 80px;
+	margin-right: 65px;
 }
 .footer-social-subtitle {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+
 	color: var(--light);
 	text-align: left;
 	margin-bottom: 16px;
