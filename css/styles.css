@@ -728,7 +728,7 @@ body {
 	border-radius: 4px;
 	padding: 8px 16px;
 	outline: none;
-	margin-bottom: 16px;
+	margin-bottom: 8px;
 }
 .form-textarea:focus {
 	border-color: var(--primary-brand);
@@ -765,7 +765,6 @@ body {
 	transform: translateY(-50%);
 }
 .checkbox-wrap {
-	/* position: relative; */
 	display: flex;
 	justify-content: flex-start;
 	align-items: flex-start;
@@ -778,12 +777,6 @@ body {
 	line-height: 1.33;
 	letter-spacing: 0.04em;
 	color: #757575;
-	/* position: relative; */
-	/* position: absolute;
-	top: 0;
-	left: 0;
-	width: 360px;
-	height: 16px; */
 }
 .form-label-checkbox::before {
 	content: "";
